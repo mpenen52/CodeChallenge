@@ -1,0 +1,19 @@
+body{
+    background-image: url(background.jpg);
+    text-align: center;
+    font-size:200%;
+}
+input {
+    height: 1.2rem;
+    width: 30%;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+#send {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    cursor: pointer;
+}
+#send:active {
+    background-color:grey;
+}
